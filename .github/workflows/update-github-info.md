@@ -11,7 +11,7 @@ engine:
   id: copilot
   copilot-sdk: true
 tools:
-  edit: true
+  edit:
   web-fetch:
 network:
   allowed:
